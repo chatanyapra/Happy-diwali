@@ -1,5 +1,5 @@
 (function($) {
-	const MAX_USERNAME_LENGTH = 30, docTitle = 'Happy Diwali';
+	const MAX_USERNAME_LENGTH = 60, docTitle = 'Happy Diwali';
 	let fireworks, quoteIndex, quote, reqParams;
 
 	function initFireworks(withSoundEffect = false) {
